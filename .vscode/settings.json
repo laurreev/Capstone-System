@@ -1,0 +1,8 @@
+{
+    "dataworkspace.excludedProjects": [
+        "capstone/capstone.sqlproj",
+        "system/system.sqlproj",
+        "Capstone/Capstone.sqlproj"
+    ],
+    "sqlDatabaseProjects.dotnetSDK Location": "C:\\Users\\exypn\\.dotnet"
+}
